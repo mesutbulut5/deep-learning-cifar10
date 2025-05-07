@@ -88,7 +88,9 @@ Model eğitimi PyTorch kütüphanesi kullanılarak gerçekleştirilmiştir.
 * **Kayıp Fonksiyonu:** Çok sınıflı sınıflandırma için Cross-Entropy Loss kullanılmıştır.
 * **Optimizer:** Model ağırlıklarını güncellemek için Adam optimizer kullanılmıştır.
 * **Epoch Sayısı:** Model (50) epoch boyunca eğitilmiştir. 
-* **Donanım:** Eğitim GPU üzerinde gerçekleştirilmiştir. 
+* **Donanım:** Eğitim GPU üzerinde gerçekleştirilmiştir.
+![Arayüz Ana Sayfa](plots/Egitim.png)
+![Arayüz Ana Sayfa](plots/Egitim1.png)
 
 ## Değerlendirme Metrikleri
 
