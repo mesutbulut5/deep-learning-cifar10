@@ -106,7 +106,13 @@ Test Doğruluğu: %90.17, Test Precision (Macro Avg): 0.91, Test Recall (Macro A
 ## Arayüz
 
 Proje, kullanıcı dostu bir web arayüzü aracılığıyla görüntü sınıflandırma modelini kullanıma sunar. Arayüz için Gradio  kütüphanesi kullanılmıştır.
+## Ekran Görüntüleri
 
+İşte arayüzümüzden bazı örnek ekran görüntüleri:
+
+![Arayüz Ana Sayfa](assets/Arayüz.png)
+
+![Sınıflandırma Sonucu](assets/Arayüz1.png)
 
 
 ### Gradio Arayüzü
