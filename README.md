@@ -101,7 +101,8 @@ Eğitim sürecinde ve test veri seti üzerinde modelin performansı çeşitli me
 
 Test Doğruluğu: %90.17, Test Precision (Macro Avg): 0.91, Test Recall (Macro Avg): 0.91, 
 
-
+![Arayüz Ana Sayfa](plots/Dogruluk_metrikleri.png)
+![Arayüz Ana Sayfa](plots/Karisiklik_matrisi.png)
 
 ## Arayüz
 
