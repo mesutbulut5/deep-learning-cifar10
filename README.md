@@ -134,8 +134,7 @@ Projeyi yerel bilgisayarınızda kurmak ve çalıştırmak için aşağıdaki ad
 3.  Gerekli Python kütüphanelerini `requirements.txt` dosyasını kullanarak kurun:
     bash
     pip install -r requirements.txt
-4.  Eğitilmiş model dosyasının (`cifar10_complex_cnn.pth` gibi) projenizin kök dizininde veya kodunuzda belirtilen doğru yolda bulunduğundan emin olun. (Eğer modeli Drive'dan yüklüyorsanız, Colab ortamında Drive'ı bağlamanız gerekir.)
-
+4.  Eğitilmiş model dosyasının (`cifar10_complex_cnn.pth` gibi) projenizin kök dizininde veya kodunuzda belirtilen doğru yolda bulunduğundan emin olun. 
 ## Nasıl Çalıştırılır
 
 ### Modeli Eğitme (Opsiyonel, eğer kendiniz eğitmek isterseniz)
