@@ -1,0 +1,14 @@
+torch==2.6.0+cu124 # PyTorch kütüphanesi
+torchvision==0.21.0+cu124 # PyTorch'un görüntü işleme kütüphanesi
+gradio==4.37.2 # Web arayüzü kütüphanesi (Eğer Gradio kullandıysanız)
+# streamlit==1.35.0 # Web arayüzü kütüphanesi (Eğer Streamlit kullandıysanız, üstteki gradio satırını silip bu yorumu kaldırın)
+Pillow==11.2.1 # Görüntü işleme kütüphanesi (PIL yerine Pillow kullanılır)
+numpy==2.0.2 # Sayısal işlemler kütüphanesi
+scikit-learn==1.6.1 # Metrik hesaplamaları için (Accuracy, F1 Score vb.)
+seaborn==0.13.2 # Grafik çizimi için (özellikle Karışıklık Matrisi)
+matplotlib==3.10.0 # Grafik çizimi için (metrik grafikleri)
+pandas==2.2.2 # Streamlit'te çubuk grafik için veya veri işleme için
+pyngrok==7.2.7 # Colab'da ngrok tüneli oluşturmak için (Eğer kullandıysanız)
+PyYAML==6.0.2 # pyngrok'un bağımlılığı
+tqdm==4.67.1 # Eğitim sürecinde ilerleme çubuğu göstermek için
+scipy==1.15.2
