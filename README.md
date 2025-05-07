@@ -89,8 +89,9 @@ Model eğitimi PyTorch kütüphanesi kullanılarak gerçekleştirilmiştir.
 * **Optimizer:** Model ağırlıklarını güncellemek için Adam optimizer kullanılmıştır.
 * **Epoch Sayısı:** Model (50) epoch boyunca eğitilmiştir. 
 * **Donanım:** Eğitim GPU üzerinde gerçekleştirilmiştir.
-![Arayüz Ana Sayfa](plots/Egitim.png)
 ![Arayüz Ana Sayfa](plots/Egitim1.png)
+![Arayüz Ana Sayfa](plots/Egitim.png)
+
 
 ## Değerlendirme Metrikleri
 
